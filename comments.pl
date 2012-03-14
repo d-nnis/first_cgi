@@ -1,4 +1,4 @@
-#!f:/Perl64/bin/perl -w
+#!f:/Perl64/bin/perl -w -d
 
 use strict;
 use warnings;
